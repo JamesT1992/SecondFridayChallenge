@@ -5,7 +5,7 @@ The challenge was to clone down a repository containing a flask app, we were to 
 
 # How I expected the challenge to go.
 The challenge went ok, at the time of writing these I don't think I managed to get the app to fully function, I got both of the apps running in containers but couldnt get the finished result to show up on the port.
-NOTE - someone suggested adding them to a network to communicate so I did so, but I just got a different error when I ran them both on a network.
+NOTE - someone suggested adding them to a network to communicate so I did so, but I just got a different error, although the error said something about home.html which is in the templates folder, so I dont think im a million miles away.
 
 # What went well?
 For the most part I understood the challenge, it was a matter of executing what was required of me that proved slightly problematic. My notes assisted me for the most part of writing the python dockerfile, although I had to ask my peers on how to install the extra python flask dependancies that I hadn't come across before.
