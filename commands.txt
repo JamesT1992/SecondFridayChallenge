@@ -1,0 +1,35 @@
+This document will just list the majority of the commands used in todays (25/9/20) Friday Challenge - James Trinder
+
+docker build -t .
+docker rm
+docker rmi
+docker images
+docker ps
+docker ps -a
+docker stop
+docker start
+docker network (probably wasnt worth it)
+	docker network rm
+	docker network connect
+	docker network disconnect
+	docker network ls
+docker logs
+docker exec -it
+vim Dockerfile
+docker run -d -p --env --name 
+git clone
+FROM
+RUN
+ADD
+EXPOSE
+WORKDIR
+COPY
+ENTRYPOINT
+touch
+docker images
+
+im sure a few others also.
+
+
+
+
